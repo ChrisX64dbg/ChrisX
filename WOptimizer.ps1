@@ -1,4 +1,3 @@
-
 $host.ui.RawUI.WindowTitle = "ChrisTool Ultimate Windows Debloater and Gaming Focus Tweaker"
 cmd /c 'title [ChrisTool Ultimate Windows Debloater and Gaming Focus Tweaker]'
 Write-Host 'Welcome to ChrisTool Ultimate Windows Debloater and Gaming Focus Tweaker';
